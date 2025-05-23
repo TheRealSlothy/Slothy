@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Slothy
+- 👋 Hi, I’m Slothy
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning c# and C++
 - 💞️ I’m looking to collaborate on FiveM projects
-- 📫 How to reach me ...
+- 📫 How to reach me Slothy.DM@protonmail.com 
 
 <!---
 TheRealSlothy/Slothy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
